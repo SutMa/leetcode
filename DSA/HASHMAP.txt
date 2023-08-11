@@ -1,0 +1,13 @@
+HASHMAPS:
+Storage of key-value pairs.
+Provides fast access to values based on their keys, used to optimize lookup operations. 
+
+// This is our hashmap (school system)
+var students = {
+    "ID123": "John's Notebook",
+    "ID124": "Sara's Notebook",
+    "ID125": "Alex's Notebook"
+};
+
+// To get John's notebook using his ID:
+console.log(students["ID123"]);  // Outputs: "John's Notebook"
