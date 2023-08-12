@@ -1,0 +1,8 @@
+Stack:
+DSA just like pancakes.
+The cake that is stacked last gets to be eaten first.
+
+const stack = []
+
+We can use push and pop methods. 
+
