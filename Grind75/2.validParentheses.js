@@ -25,7 +25,7 @@
 /**
  * Solution Explained:
  * We want to use the Stack Data Structure
- * While looping throuh and adding the ith element of the 
+ * While looping through and adding the ith element of the 
  * string s to the staack.
  * 
  * Now we have a variable, called open that is s.length - 2
