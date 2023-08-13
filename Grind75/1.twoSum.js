@@ -1,4 +1,4 @@
-/**
+/**HASHMAP
  * Instructions:
  * 
  * Given: 
