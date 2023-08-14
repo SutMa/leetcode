@@ -39,3 +39,6 @@ var invertTree = function(root) {
   return root
   
 };
+
+//Space: O(n)
+//Time: O(n)
